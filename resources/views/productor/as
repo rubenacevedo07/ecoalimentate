@@ -1,0 +1,289 @@
+@extends('mainlayout')
+
+@section('metas')
+    <meta name="description" content="Contacto | Ecoalimentate">
+    <title>Contacto | Ecoalimentate</title>
+@endsection
+
+@section('styles')
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <style>
+        /* w */
+        .navbar {
+          margin-bottom: 0;
+        }
+        #cabecera{
+            margin-top: 55px;
+            height: 60px;
+            background-color: rgb(248, 147, 31);
+            
+        }
+        .titles{        
+            font-family: 'Amatic SC', Arial!important;           
+            font-size: 28px;
+        }
+        #cabecera .titles{
+            font-size: 38px!important;
+            font-weight: bolder;
+            color: white;
+        }
+        .justify{
+            text-align: justify;
+        }
+        .hand{
+            margin:30px auto;
+        }
+        .bar{
+            max-width: 10000px;
+            border-width: 2px;
+            border-color: #f8b31f;
+            height: 20px;
+        }
+        .justify{
+            text-align: justify;
+        }
+       
+        #contacto{
+          position: relative;
+          overflow: hidden;
+          padding: 0px;
+        }
+        
+        /**/
+        #floating-panel::-webkit-scrollbar {
+            width: 0.9em;
+            position: absolute;
+            right: -30px;
+        }
+         
+        #floating-panel::-webkit-scrollbar-track {
+            background-color: darkgrey;
+          outline: 1px solid slategrey;
+  
+        }
+         
+        #floating-panel::-webkit-scrollbar-thumb {
+          
+          -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+        }
+        .top10{
+          margin-top: 10px;
+        }
+
+         #map {
+            height: 550px;
+          }
+          #floating-panel{
+            position: relative;
+            max-height: 550px;
+            z-index: 1;
+            overflow-y:auto;
+            overflow-x:hidden;
+            padding-bottom: 40px; 
+          }
+          .cont{
+            width: 90%;
+            margin: 0 auto;
+            
+          }
+        .controls {
+          /*margin-top: 10px;*/
+          border: 1px solid transparent;
+          border-radius: 2px 0 0 2px;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          height: 32px;
+          outline: none;
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        #pac-input {
+          display: block;
+          background-color: #fff;
+          font-family: Roboto;
+          font-size: 16px;
+          font-weight: 300;
+          /*margin-left: 12px;
+          padding: 0 11px 0 13px;*/
+          text-overflow: ellipsis;
+          /*width: 400px;*/
+        }
+
+        #pac-input:focus {
+          border-color: #4d90fe;
+        }
+
+        .pac-container {
+          font-family: Roboto;
+        }
+
+        #type-selector {
+          color: #fff;
+          background-color: #4d90fe;
+          padding: 5px 11px 0px 11px;
+        }
+
+        #type-selector label {
+          font-family: Roboto;
+          font-size: 13px;
+          font-weight: 300;
+        }
+        .col-sm-4,.col-sm-8{
+          padding: 0; 
+        }
+
+        
+    </style>
+
+
+  {!! HTML::style('css/parsley.css') !!}
+  {!! HTML::style('css/select2.min.css') !!}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1/leaflet.css" />
+
+  <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+
+  
+  <script type="text/javascript">
+    tinymce.init({
+  selector: 'textarea',  // change this value according to your HTML
+    menubar: false,
+    plugins: 'link code',
+    statusbar: false,
+    language_url : '/js/es.js'
+  }); 
+
+  </script>
+@endsection
+    
+    @section('content')
+    
+    <div id="cabecera">
+        <div class="container">
+            <h4 class="titles">Cargar emprendimiento</h4>
+        </div>
+    </div>
+    <section id="contacto">
+   
+            
+          <div class="row">
+
+          <div class="col-sm-4">
+                  <div id="floating-panel">
+                    <div class="cont">
+                     
+                <!--
+                    {!! Form::open(array('route' => 'mercados.store', 'data-parsley-validate' => '', 'files' => true)) !!}
+
+                        {{ Form::label('mercado', ' Nombre Emprendimiento',array('class'=>'top10')) }}
+                        {{ Form::text('mercado',null, array('class' => 'form-control', 'required' => '', 'maxlength' =>'255', 'placeholder' => 'Insertar nombre del emprendimiento')) }}
+
+                        {{ Form::label('domicilio', ' Direccion', array('class'=>'top10')) }}
+                        {{ Form::text('domicilio', null,array( 'id' =>'pac' ,'ng-model'=>'address', 'class' => 'form-control', 'required' => '', 'maxlength' =>'255', 'placeholder' => 'Ingrese la dirección de su emprendimiento')) }}
+
+                        {{ Form::hidden('latitud',null,array('id'=>'lat')) }}
+                        {{ Form::hidden('longitud',null,array('id'=>'long')) }}
+
+                        {{ Form::label('descripcion','Descripción',['class'=>'top10'] ) }}
+                        {{ Form::textarea('descripcion',null, array('class' => 'form-control')) }}
+                        
+
+
+                        {{ Form::label('email', 'Email', array('class'=>'top10')) }}
+                        {{ Form::text('email',null, array('type'=>'email', 'class' => 'form-control', 'required' => '', 'maxlength' =>'155', 'placeholder' => 'Email')) }}
+
+                        {{ Form::label('logo','Cargar logo', ['class'=>'top10'] ) }}
+                        {{ Form::file('logo') }}
+
+                        {{ Form::label('imagen','Cargar imagen', ['class'=>'top10'] ) }}
+                        {{ Form::file('imagen') }}
+                        
+                        {{ Form::label('video', 'Link Youtube', array('class'=>'top10')) }}
+                        {{ Form::text('video',null, array('type'=>'email', 'class' => 'form-control', 'required' => '', 'maxlength' =>'155', 'placeholder' => 'Insertar link Youtube')) }}
+                        
+                        {{ Form::label('url_web', 'Facebook', array('class'=>'top10')) }}
+                        {{ Form::text('url_web',null, array('class' => 'form-control', 'required' => '', 'maxlength' =>'155', 'placeholder' => 'Sitio Web')) }}
+
+                        {{ Form::label('url_facebook', 'Facebook', array('class'=>'top10')) }}
+                        {{ Form::text('url_facebook',null, array('class' => 'form-control', 'required' => '', 'maxlength' =>'155', 'placeholder' => 'Pagina de Facebook')) }}
+
+                         {{ Form::submit('Guardar', array('class' => 'btn btn-success btn-lg btn-block', 'style' => 'margin-top:20px;') ) }}
+
+                    {!! Form::close() !!}
+                  -->
+
+
+        <form action="{{ url('/mercados.store') }}" method="POST" class="form">
+            
+          {{ csrf_field() }}
+                  <div class="form-group">
+                    <label name="nombre">Nombre emprendimiento</label>
+                    <input name="nombre" class="form-control" id="nombre" type="text" required placeholder="Ingrese nombre emprendimiento">
+                  </div>
+
+                  <div class="form-group">
+                    <label name="direccion">Direccion</label>
+                    <input name="direccion" class="form-control" ng-model="address" debounce="500" id="pac" type="e-mail" required placeholder="Ingrese dirección">
+                  </div>
+                  <pre> {{ $data|json}}</pre>
+                  <!--
+                  <div class="form-group">
+                    <label name="telefono">Telefono:</label>
+                    <input name="telefono" class="form-control" id="telefono" type="number"  placeholder="Teléfono:">
+                  </div>
+                    
+
+                  <div class="form-group" style="align:right">
+                    <label name="comentario">Mensaje:</label>
+                    <textarea name="comentario" class="form-control" rows="3" id="comentario" type="text"  placeholder="Comentario:" required></textarea>
+                  </div>                   
+                     <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                        
+                  <button type="submit" class="btn btn-primary bc">Enviar</button>
+                        
+                         
+                            <a href="https://web.facebook.com/riowebrosario/">               
+                                <img alt="face" title="logo face" id="redes" src="{{ URL::asset('/images/logoface.png') }}">
+                            </a>
+                            <a href="https://twitter.com/RioWebArg">               
+                                <img alt="twitter" title="logo twit" id="redes" src="{{ URL::asset('/images/logotwit.png') }}">
+                            </a>
+                            
+                            <a href="https://www.instagram.com/RioWebArg/">               
+                                <img alt="instagram" title="logo insta" id="redes" src="{{ URL::asset('/images/logoinsta.png') }}">
+                            </a>
+                          -->
+                
+             
+        </form>
+                    </div>
+                  </div>
+                  
+           </div>   
+              <div class="col-sm-8" id="app">
+                  <div id="map"></div>
+              </div>        
+
+         </div> 
+        </div>
+    </section>
+
+
+   @endsection
+
+
+    @section('scripts')
+      {!! HTML::script('js/parsley.min.js') !!}
+  {!! HTML::script('js/es.js') !!}
+  {!! HTML::script('js/select2.min.js') !!}
+  <!--
+  <script type="text/javascript">
+     $('.js-example-basic-multiple').select2();
+
+  </script>-->
+  <script src="https://unpkg.com/vue@2.1.8/dist/vue.js"></script>
+  <script src="{{asset('js/app.js')}}"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAssWrbJn1x2zbxMWVPgkyUg356RTMHx_c&libraries=places&callback=app.createMap"
+              async defer></script>
+
+
+    @endsection 

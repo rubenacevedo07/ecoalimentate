@@ -1,0 +1,1563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"searc",
+				"search_input"
+			],
+			[
+				"sea",
+				"search_operator"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"sear",
+				"search_column"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"Merca",
+				"Mercado"
+			],
+			[
+				"Data",
+				"DataViewer"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"map",
+				"mapax"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pro",
+				"producer"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"produc",
+				"productos"
+			],
+			[
+				"mer",
+				"mercado"
+			],
+			[
+				"mercad",
+				"mercadocategory_id"
+			],
+			[
+				"mercado",
+				"mercadocategory"
+			],
+			[
+				"merca",
+				"Mercadocategory"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"Mercad",
+				"Mercadocategory"
+			],
+			[
+				"permi",
+				"permissions"
+			],
+			[
+				"noti",
+				"notices"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"cre",
+				"createMap"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"publ",
+				"PublicViewsController"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"borc",
+				"border-color"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"carouse",
+				"carousel-inner"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"que",
+				"queeseco"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"vue",
+				"vue2-google-maps"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"rep",
+				"repartidores"
+			],
+			[
+				"sta",
+				"startingCity"
+			],
+			[
+				"s",
+				"startingCity"
+			],
+			[
+				"starti",
+				"startingZip"
+			],
+			[
+				"startin",
+				"startingCity"
+			],
+			[
+				"prop",
+				"PropTypes"
+			],
+			[
+				"Re",
+				"ReactDOM"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"pla",
+				"PLAYER_ONE_SYMBOL"
+			],
+			[
+				"P",
+				"PLAYER_TWO_SYMBOL"
+			],
+			[
+				"PLAy",
+				"PLAYER_ONE_SYMBOL"
+			],
+			[
+				"po",
+				"people"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"albm",
+				"album_id"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"form",
+				"formdata"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"disco",
+				"Discografia"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"you",
+				"you"
+			],
+			[
+				"app",
+				"App"
+			],
+			[
+				"Vue",
+				"VueResource"
+			],
+			[
+				"al",
+				"albumId"
+			],
+			[
+				"blg",
+				"blogItems"
+			],
+			[
+				"clik",
+				"clicks"
+			],
+			[
+				"cli",
+				"clicKer"
+			],
+			[
+				"thism",
+				"thismonthvisits"
+			],
+			[
+				"thi",
+				"thismonthvisits"
+			],
+			[
+				"last",
+				"lastmonthdates"
+			],
+			[
+				"this",
+				"thismonthdates"
+			],
+			[
+				"st",
+				"start_date"
+			],
+			[
+				"wi",
+				"withTag"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"categor",
+				"category_id"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"C",
+				"Category"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"skin",
+				"skin-black"
+			],
+			[
+				"car",
+				"carType"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"Pas",
+				"PasswordController"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"blo",
+				"BlogController"
+			],
+			[
+				"nav",
+				"navbar-default"
+			],
+			[
+				"notice",
+				"notice"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"Contro",
+				"Controller"
+			],
+			[
+				"Con",
+				"Controllers"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ac",
+				"accesos"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"port",
+				"portfolio-item"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"contain",
+				"container-fluid"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"auth",
+				"auth_user"
+			],
+			[
+				"not",
+				"Noticias"
+			],
+			[
+				"prod",
+				"Productos"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"MARI",
+				"margin-top"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"cont",
+				"contacto"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"empresa",
+				"empresa3"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"scri",
+				"scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/MercadoAdminController.php",
+			"settings":
+			{
+				"buffer_size": 9500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@extends('backpack::layout')\n\n@section('before_styles')\n\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"{{asset('css/app.css')}}\">\n  \n@endsection\n\n@section('header')\n    <section class=\"content-header\">\n      <h1>\n        Mercados\n      </h1>\n      <ol class=\"breadcrumb\">\n        <li><a href=\"{{ url(config('backpack.base.route_prefix', 'admin')) }}\">{{ config('backpack.base.project_name') }}</a></li>\n        <li class=\"active\">Mercados</li>\n      </ol>\n    </section>\n@endsection\n\n\n@section('content')\n    <div class=\"row\">\n        <div class=\"col-md-12\">\n            <div class=\"box box-default\">\n                <div class=\"box-header with-border\">\n                    <div class=\"box-title\">Mercados</div>\n                </div>\n                 <div class=\"box-body\">\n                  <div class=\"col-xs-5\">\n                        <a href=\"{{ route('mercadoadmin.create') }}\" class=\"btn btn-md btn-block btn-primary btn-h1-spacing\">Cargar Mercado</a>\n                    </div>\n                    <div class=\"col-xs-7\">\n                    @if (Session::has('success'))\n                           <div class=\"alert alert-success\" role=\"alert\">\n                              <strong>Perfecto!</strong> {{ Session::get('success') }}\n                            </div>\n\n                    @endif\n                    @if (count($errors) > 0)\n                            <div class=\"alert alert-danger\" role=\"alert\">\n                              <strong>Errores:</strong>\n                              <ul>\n                              @foreach ($errors->all() as $error)\n                                <li>{{ $error }}</li>\n                              @endforeach  \n                              </ul>\n                            </div>\n                    @endif\n                    </div>\n                    \n                  </div>\n                    \n                </div>\n                <div class=\"box-body\">\n\n                  <div id=\"app\">                \n                    <data-viewer source=\"{{url('admin/api/mercados')}}\" title=\"MERCADOS />\n                  </div>\n\n                </div><!--end of box-body-->\n            </div>\n        </div>\n    </div>\n@endsection\n\n@section('after_scripts')\n  <script type=\"text/javascript\" src=\"{{asset('js/app.js')}}\"></script>\n@endsection",
+			"file": "resources/views/admin/mercados/index2.blade.php",
+			"file_size": 2381,
+			"file_write_time": 131297728234250655,
+			"settings":
+			{
+				"buffer_size": 2312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/assets/js/components/DataViewer.vue",
+			"settings":
+			{
+				"buffer_size": 3936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Helper/DataViewer.php",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Mercado.php",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 1709,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pak",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Walter/Desktop/Luciani/lasensiblera.jpg",
+		"/C/wamp64/www/ecolaravel2/app/DataViewer.php",
+		"/C/wamp64/www/ecolaravel2/resources/assets/oldasset.js",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/PublicViewsController.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/puntosdeventa.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/gruposdeconsumo.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/assets/js/oldasset.js",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/MercadoController.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/partials/_navbar.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/vendor/backpack/base/inc/sidebar.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercados/edit.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercados/create.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/MercadoAdminController.php",
+		"/C/wamp64/www/ecolaravel2/public/js/productores.js",
+		"/C/wamp64/www/ecolaravel2/routes/web.php",
+		"/C/wamp64/www/ecolaravel2/public/js/puntosventa.js",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/productores.blade.php",
+		"/C/wamp64/www/ecolaravel2/public/js/places.js",
+		"/C/wamp64/www/ecolaravel2/resources/views/welcome.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Mercadocategory.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercados/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/public/css/admin.css",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercados/show.blade.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_07_124413_create_mercados_table.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2016_12_30_045654_create_categories_table.php",
+		"/C/wamp64/www/ecolaravel2/public/js/placesedit.js",
+		"/C/wamp64/www/ecolaravel2/resources/views/vendor/backpack/base/dashboard.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Mercado.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/crearmercado.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/notices/create.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/NoticeCrudController.php",
+		"/C/wamp64/www/ecolaravel2/app/Tag.php",
+		"/C/wamp64/www/ecolaravel2/app/Producto.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_15_041201_create_mercado_producto_table.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/TagController.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/User.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/PermissionsController.php",
+		"/C/wamp64/www/ecolaravel2/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/permissions/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/ProductosController.php",
+		"/C/wamp64/www/ecolaravel2/app/Policies/MercadoPolicy.php",
+		"/C/wamp64/www/ecolaravel2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2016_12_29_230126_create_notices_table.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/notices/show.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/singlenotice.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/users/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/notices/edit.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/categories/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercadocategories/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/MercadoCategoryController.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/CategoryController.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/tags/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/productos/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercadocategories/index.html",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_10_045259_create_mercadocategories_table.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_10_085546_create_productos_table.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/mercados/update.blade.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_10_034636_add_user_id_to_mercados.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/showmercado.blade.php",
+		"/C/wamp64/www/ecolaravel2/public/js/imageviewer.js",
+		"/C/wamp64/www/ecolaravel2/resources/assets/js/bootstrap.js",
+		"/C/wamp64/www/ecolaravel2/resources/assets/js/app.js",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/vuemercado.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/mainlayout.blade.php",
+		"/C/wamp64/www/ecolaravel2/public/js/new-age.js",
+		"/C/wamp64/www/ecolaravel2/resources/views/partials/_commonstyles.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/vuemercado.html",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_02_230638_create_emprendimientos_table.php",
+		"/C/Users/Walter/Downloads/ecoalimentate (5).sql",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/recursos/index.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/recursos/create.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/admin/recursos/show.blade.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/RecursosController.php",
+		"/C/wamp64/www/ecolaravel2/app/Http/Controllers/EmprendimientoController.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/recursos.blade.php",
+		"/C/wamp64/www/ecolaravel2/resources/views/public/notices.blade.php",
+		"/C/Windows/TEMP/Rar$DRa0.020/startbootstrap-1-col-portfolio-gh-pages/index.html",
+		"/C/wamp64/www/ecolaravel2/package.json",
+		"/C/wamp64/www/ecolaravel2/resources/views/productor/crearemprendimiento.blade.php",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2017_01_03_234329_create_videoaudiovs_table.php",
+		"/C/Windows/TEMP/Rar$DRa0.170/startbootstrap-1-col-portfolio-gh-pages/css/bootstrap.css",
+		"/C/Windows/TEMP/Rar$DRa0.636/startbootstrap-1-col-portfolio-gh-pages/css/1-col-portfolio.css",
+		"/C/wamp64/www/ecolaravel/database/migrations/2016_12_24_045649_create_productores_table.php",
+		"/C/wamp64/www/ecolaravel2/.envlocal",
+		"/C/wamp64/www/ecolaravel2/database/migrations/2016_12_28_004837_create_roles_table.php",
+		"/C/wamp64/www/ecolaravel2/app/Permission.php",
+		"/C/wamp64/www/ecolaravel2/.env",
+		"/C/wamp64/www/ecolaravel2/bootstrap/app.php",
+		"/C/wamp64/www/ecolaravel2/public/index.php",
+		"/C/wamp64/www/ecoalimentate/definiciones/index.html",
+		"/C/wamp64/www/ecoalimentate/institucional/index.html",
+		"/C/wamp64/www/ecolaravel2/config/filesystems.php",
+		"/C/wamp64/www/ecolaravel2/config/app.php",
+		"/C/wamp64/www/ecolaravel/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/ecolaravel/vendor/backpack/base/src/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/ecolaravel/resources/views/public/registrarproductor.blade.php",
+		"/C/wamp64/www/ecolaravel/routes/web.php",
+		"/C/wamp64/www/ecolaravel/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/ecolaravel/app/Http/Controllers/PublicController.php",
+		"/C/wamp64/www/ecolaravel/app/User.php",
+		"/C/wamp64/www/ecolaravel/app/Http/Controllers/RegisterProductorController.php",
+		"/C/wamp64/www/victoria/vendor/backpack/base/src/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/ecolaravel/config/backpack/base.php",
+		"/C/wamp64/www/ecolaravel/resources/views/welcome.blade.php",
+		"/C/wamp64/www/ecolaravel/resources/views/public/productores.blade.php",
+		"/C/wamp64/www/ecolaravel/resources/views/mainlayout.blade.php",
+		"/C/wamp64/www/ecolaravel/resources/views/partials/_navbar.blade.php",
+		"/C/wamp64/www/ecolaravel/app/Http/Controllers/Auth/RegisterProducer.php",
+		"/C/wamp64/www/victoria/app/Notice.php",
+		"/C/wamp64/www/victoria/database/migrations/2016_10_13_232945_create_notice_tag_table.php",
+		"/C/wamp64/www/victoria/database/migrations/2016_11_28_005044_create_videos_table.php",
+		"/C/wamp64/www/ecolaravel/config/filesystems.php",
+		"/C/wamp64/www/ecolaravel/config/app.php",
+		"/C/wamp64/www/ecolaravel/resources/views/vendor/backpack/base/inc/sidebar.blade.php",
+		"/C/wamp64/www/ecolaravel/resources/lang/vendor/backpack/es/base.php",
+		"/C/wamp64/www/ecoalimentate/enlaces-sugeridos/index.html",
+		"/C/wamp64/www/ecoalimentate/nuestros-objetivos/index.html",
+		"/C/wamp64/www/ecoalimentate/productores/index.html",
+		"/C/wamp64/www/ecoalimentate/productos/index.html",
+		"/C/wamp64/www/ecoalimentate/puntos-de-venta/index.html",
+		"/C/wamp64/www/ecoalimentate/js/new-age.js",
+		"/C/wamp64/www/ecoalimentate/recursos-audiovisuales/index.html",
+		"/C/wamp64/www/ecoalimentate/index.html",
+		"/C/wamp64/www/ecoalimentate/less/variables.less",
+		"/C/wamp64/www/ecoalimentate/less/mixins.less",
+		"/C/wamp64/www/ecoalimentate/less/new-age.less",
+		"/C/wamp64/www/ecoalimentate/css/new-age.css"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this",
+			"column",
+			"=>",
+			"body",
+			"app",
+			"#app",
+			"                \n",
+			"template",
+			"$mercado",
+			"user_u",
+			"mercados",
+			"Productores",
+			"title",
+			"definic",
+			"panel-title",
+			"<br>",
+			"productor",
+			"array",
+			"icon",
+			"bar",
+			"4",
+			"3",
+			"1",
+			"imagen",
+			" id=\"mysecond\"",
+			"img-responsive contimg",
+			"imagen",
+			"g\"",
+			"markersArray",
+			"json_decode(",
+			"en",
+			",",
+			"tags",
+			"categor",
+			"produc",
+			"categoria_id",
+			"8",
+			"categoria_id",
+			"\"",
+			"Direccion",
+			"js-example-basic-multiple",
+			"'",
+			".select2-multi",
+			"video",
+			"col-md-3",
+			"<div class=\"info-box\">",
+			"mapa",
+			"all",
+			"mercados",
+			"1",
+			"$request->",
+			"tag_id",
+			"notice_id",
+			"category_id",
+			"news",
+			"permission",
+			"name",
+			"permission",
+			"producto",
+			"Productos",
+			"productos",
+			"producto",
+			"Producto",
+			"producto",
+			"\"",
+			"notice",
+			"body",
+			"notice",
+			"Tag",
+			"tag",
+			"Tag",
+			"tag",
+			"Tag",
+			"tag",
+			"Tag",
+			"tag",
+			"top1",
+			"top",
+			"auth",
+			"logo",
+			"->",
+			"tags",
+			"notice",
+			"logo",
+			"video",
+			"notice",
+			"Noticias",
+			"margin",
+			".cont",
+			"video",
+			"featured_image",
+			"notice",
+			"featured_image",
+			"viewport",
+			"address",
+			"geometr",
+			"marker",
+			"stat",
+			"geocod",
+			"attrib",
+			"app",
+			"type=\"text/javascript\" ",
+			"app",
+			"body",
+			"cont",
+			"map",
+			"facebook",
+			"localidad",
+			"descripcion",
+			"emprendimiento",
+			"emprend",
+			");",
+			"floati",
+			"1",
+			"controls",
+			"floatin",
+			"4",
+			"3",
+			"notice",
+			"*\n",
+			"notice",
+			"audiovisual",
+			"Audiovisual",
+			"notice",
+			"recursos",
+			"notice",
+			"icon",
+			"input-ma"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"settings":
+					{
+						"buffer_size": 2353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2098,
+								2098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/MercadoAdminController.php",
+					"settings":
+					{
+						"buffer_size": 9500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1095,
+								1095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/admin/mercados/index2.blade.php",
+					"settings":
+					{
+						"buffer_size": 2312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								997,
+								997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/assets/js/components/DataViewer.vue",
+					"settings":
+					{
+						"buffer_size": 3936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1400,
+								1400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 267.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Helper/DataViewer.php",
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1822,
+								1822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 38.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/assets/js/app.js",
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Mercado.php",
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "resources/assets/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 1709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1449,
+								1449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.527573529412,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mercadoad",
+				"app/Http/Controllers/MercadoAdminController.php"
+			],
+			[
+				"mercad",
+				"app/Http/Controllers/MercadoAdminController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"public",
+				"app/Http/Controllers/PublicViewsController.php"
+			],
+			[
+				"mercado",
+				"app/Http/Controllers/MercadoController.php"
+			],
+			[
+				"publicvi",
+				"app/Http/Controllers/PublicViewsController.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"places",
+				"public/js/places.js"
+			],
+			[
+				"admin",
+				"public/css/admin.css"
+			],
+			[
+				"mercadad",
+				"app/Http/Controllers/MercadoAdminController.php"
+			],
+			[
+				"mercadocate",
+				"app/Mercadocategory.php"
+			],
+			[
+				"produ",
+				"app/Producto.php"
+			],
+			[
+				"tag",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"merca",
+				"app/Mercado.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"authir",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"navbar",
+				"resources/views/partials/_navbar.blade.php"
+			],
+			[
+				"sidebar",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"side",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"admin.css",
+				"public/css/admin.css"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"admin.c",
+				"public/css/admin.css"
+			],
+			[
+				"recurso",
+				"app/Http/Controllers/RecursosController.php"
+			],
+			[
+				"sideba",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"empren",
+				"app/Http/Controllers/EmprendimientoController.php"
+			],
+			[
+				"servic",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"permi",
+				"app/Permission.php"
+			],
+			[
+				"role",
+				"app/Role.php"
+			],
+			[
+				"publiccon",
+				"victoria/app/Http/Controllers/PublicController.php"
+			],
+			[
+				"albumcontro",
+				"victoria/app/Http/Controllers/AlbumController.php"
+			],
+			[
+				"blogcontr",
+				"victoria/app/Http/Controllers/BlogController.php"
+			],
+			[
+				"web.php",
+				"victoria/routes/web.php"
+			],
+			[
+				"album.php",
+				"victoria/app/Album.php"
+			],
+			[
+				"main.css",
+				"victoria/public/styles/main.css"
+			],
+			[
+				"home.bl",
+				"victoria/resources/views/home/home.blade.php"
+			],
+			[
+				"glyphi",
+				"victoria/public/bower_components/bootstrap/less/glyphicons.less"
+			],
+			[
+				"index.bla",
+				"riolaravel/resources/views/admin/blog/index.blade.php"
+			],
+			[
+				"home.blad",
+				"victoria/resources/views/home/home.blade.php"
+			],
+			[
+				"main.cs",
+				"victoria/public/styles/main.css"
+			],
+			[
+				"publiccontro",
+				"riolaravel/app/Http/Controllers/PublicController.php"
+			],
+			[
+				"pagescon",
+				"riolaravel/app/Http/Controllers/PagesController.php"
+			],
+			[
+				"web.p",
+				"riolaravel/routes/web.php"
+			],
+			[
+				"rightband",
+				"victoria/resources/views/blog/partials/_rightband.blade.php"
+			],
+			[
+				"route",
+				"workshop2016-rosario-express/api/router.js"
+			],
+			[
+				"rou",
+				"otros/workshop2016-rosario-express/api/router.js"
+			],
+			[
+				"blogcont",
+				"app/Http/Controllers/BlogController.php"
+			],
+			[
+				"blog",
+				"app/Http/Controllers/BlogController.php"
+			],
+			[
+				"tagcon",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"tagcontro",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"blogc",
+				"riolaravel/app/Http/Controllers/BlogController.php"
+			],
+			[
+				"create.blade",
+				"projects/vicbirlaravel/resources/views/admin/create.blade.php"
+			],
+			[
+				"blogcon",
+				"riolaravel/app/Http/Controllers/BlogController.php"
+			],
+			[
+				"edit.blade.php",
+				"projects/vicbirlaravel/resources/views/admin/edit.blade.php"
+			],
+			[
+				"edit.blade",
+				"projects/vicbirlaravel/resources/views/admin/edit.blade.php"
+			],
+			[
+				"edit.",
+				"resources/views/admin/blog/edit.blade.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"blo",
+				"app/Http/Controllers/BlogController.php"
+			],
+			[
+				"mailtran",
+				"vendor/swiftmailer/swiftmailer/lib/classes/Swift/MailTransport.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"_variables.scss",
+				"myApp/www/lib/ionic/scss/_variables.scss"
+			],
+			[
+				"ion-pane",
+				"myApp/node_modules/spdx-expression-parse/index.js"
+			],
+			[
+				"categ",
+				"app/Category.php"
+			],
+			[
+				"passwo",
+				"resources/views/auth/emails/passwords.blade.php"
+			],
+			[
+				"admincon",
+				"admintest/vendor/backpack/base/src/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"lang",
+				"admintest/vendor/symfony/css-selector/Tests/XPath/Fixtures/lang.xml"
+			],
+			[
+				"app.p",
+				"admintest/bootstrap/app.php"
+			],
+			[
+				"autenti",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"autent",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"authco",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"authc",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"news",
+				"app/Http/Controllers/NewsController.php"
+			],
+			[
+				"pages",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"new",
+				"app/Http/Controllers/NewsController.php"
+			],
+			[
+				"app.",
+				"bootstrap/app.php"
+			],
+			[
+				"",
+				"project-flyer/app/Http/routes.php"
+			],
+			[
+				"welcom",
+				"project-flyer/resources/views/welcome.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Walter/Desktop/Webs/Practica Angular2 Video2Brain/angular2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
